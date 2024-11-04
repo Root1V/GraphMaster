@@ -21,3 +21,7 @@ class DFS:
 class BFS:
     def search_path():
         pass
+
+class AStart:
+    def __init__(self) -> None:
+        pass
